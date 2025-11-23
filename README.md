@@ -55,19 +55,20 @@ Forme는 사용자가 매일의 감정을 일기로 남기면,
 backend-forme
 │
 ├── src
-│ ├── com.forme.servlet (Controller)
-│ ├── com.forme.model (DTO/DAO)
-│ └── com.forme.connector (DB Connection)
+│   ├── com.forme.servlet     (Controller)
+│   ├── com.forme.model       (DTO / DAO)
+│   └── com.forme.connector   (DB Connection)
 │
 ├── WebContent
-│ ├── css
-│ ├── images
-│ ├── js
-│ ├── header.jsp
-│ ├── footer.jsp
-│ └── *.jsp
+│   ├── css
+│   ├── images
+│   ├── js
+│   ├── header.jsp
+│   ├── footer.jsp
+│   └── *.jsp
 │
 └── README.md
+
 
 
 ---
