@@ -1,0 +1,13 @@
+# Eclipse / IDE
+.metadata/
+Servers/
+.settings/
+.classpath
+.project
+
+# Build
+bin/
+target/
+
+# OS
+.DS_Store
