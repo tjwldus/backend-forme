@@ -52,6 +52,7 @@ Forme는 사용자가 매일의 감정을 일기로 남기면,
 
 ## 📂 Project Structure
 
+```
 backend-forme
 │
 ├── src
@@ -68,7 +69,7 @@ backend-forme
 │   └── *.jsp
 │
 └── README.md
-
+```
 
 
 ---
